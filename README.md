@@ -1,0 +1,1 @@
+cypress-page-objects
